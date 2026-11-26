@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/
+Anaconda3-*.sh
+.ipynb_checkpoints/
+__pycache__/
